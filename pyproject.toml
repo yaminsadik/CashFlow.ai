@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "cashflow-ai"
+version = "0.1.0"
+description = "A CashFlow management AI application"
+authors = ["Your Name <youremail@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+fastapi = "^0.100.0"
+requests = "^2.31.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

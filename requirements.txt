@@ -1,0 +1,14 @@
+# requirements.txt
+streamlit
+pandas
+openpyxl
+python-dotenv
+langchain
+langchain-openai
+langgraph
+pillow
+pytesseract
+opencv-python
+pymupdf4llm
+pdfplumber
+

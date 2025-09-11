@@ -1,0 +1,8 @@
+# Virtual environment
+venv/
+.env/
+
+
+# Environment/secret files
+*.env
+.env.local
